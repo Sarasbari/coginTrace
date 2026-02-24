@@ -104,7 +104,7 @@ npm install
 npm run dev
 ```
 
-Open **http://localhost:5173** in Chrome.
+Open **(https://cogin-trace.vercel.app/)** in Chrome.
 
 ### First Run
 On first load, CogniTrace generates **5 mock baseline sessions** so the dashboard isn't empty. Start a real session to begin building your personal baseline.
